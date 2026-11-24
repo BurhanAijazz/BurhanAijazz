@@ -7,7 +7,7 @@
             src="https://img.shields.io/twitter/follow/_burhan_aijaz_?logo=twitter&style=for-the-badge"
             alt="burhan_aijaz" /></a> </p>
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 Building scalable APIs & AI workflows
 
 - 👨‍💻 All of my projects are available at [burhanaijazz.github.io/portfolio](burhanaijazz.github.io/portfolio)
 
